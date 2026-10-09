@@ -1,0 +1,30 @@
+[NH60] Huff Memorial Airport
+  title: Huff Memorial Airport
+  city: New Boston
+  keywords: —
+  country: US
+  kind: small_airport
+  elevation_ft: 840.0
+  latitude: 42.958877
+  longitude: -71.653126
+  scheduled: false
+  url: https://ourairports.com/airports/NH60/
+  Релевантность: 1.00
+  Оценка: нет
+  Баллы: 1.00
+
+[US-0960] Tufts Medical Center Heliport
+  title: Tufts Medical Center Heliport
+  city: Boston
+  keywords: —
+  country: US
+  kind: heliport
+  elevation_ft: 230.0
+  latitude: 42.349037
+  longitude: -71.063223
+  scheduled: false
+  url: https://ourairports.com/airports/US-0960/
+  Релевантность: 1.00
+  Оценка: 5/5
+  Баллы: 1.00
+
