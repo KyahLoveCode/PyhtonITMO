@@ -1,0 +1,966 @@
+РЕЗУЛЬТАТЫ ПОИСКА: 'Harry Potter'
+=================================
+
+[ID: OL82563W]
+id: OL82563W
+title: Harry Potter and the Philosopher's Stone
+authors: J. K. Rowling
+subjects: series:Harry_Potter | Ghosts | Monsters | Vampires | Witches | Challenges and Overcoming Obstacles | Magic and Supernatural | Cleverness | School Life | school stories | Wizards | Magic | MAGIA | MAGOS | Juvenile fiction | Fiction | NOVELAS INGLESAS | Schools | orphans | fantasy fiction | England in fiction | Witches in fiction | Wizards in fiction | Alchemy | New York Times bestseller | Juvenile literature | Magic in fiction | Open Library Staff Picks | Juvenile audience | Children's stories | Juvenile works | Schools in fiction | Fantasy | Hogwarts School of Witchcraft and Wizardry (Imaginary place) | Harry Potter (Fictitious character) | Ficción juvenil | Escuelas | Hogwarts School of Witchcraft and Wizardry (Imaginary organization) | Translations from English | Chinese fiction | Hermione Granger (Fictitious character) | Reading Level-Grade 9 | Reading Level-Grade 11 | Reading Level-Grade 10 | Reading Level-Grade 12 | Hogwarts school of witchcraft and wizardry (imaginary organization), fiction | Children's fiction | Schools, fiction | England, fiction | Potter, harry (fictitious character), fiction | Wizards, fiction | Magic, fiction | Fiction, fantasy, general | Magier | Fabeltiere | Lehrling | Kinderbuch | Stein der Weisen | Ungeheuer | Junge | English language | Translating into Welsh | Modern history to 20th century: c 1700 to c 1900 | Literary theory | English literature | Ron Weasley (Fictitious character) | Latin language materials | Romans, nouvelles, etc. pour la jeunesse | Poudlard, école de sorcellerie (Organisation imaginaire) | Sorciers | Sorcières | Magie | Internats | Adventure and adventurers, fiction | Action & Adventure | Fantasy & Magic | Social Themes | Friendship | Harry Potter (Fictional character) | Friendship, fiction | German language materials | Witchcraft, fiction | Wizard | NOVELAS FANTÁSTICAS | NOVELAS JUVENILES INGLESAS | LITERATURA JUVENIL ESTADOUNIDENSE | Écoles | Hechicería | Novela juvenil | Ingleterra | Mystery | roman | English Fantasy literature | Translations into Marathi | English fiction | Translations into Chinese | Children - harry potter | Teen fiction | Children - fiction & literature | Science fiction & fantasy | Fiction - people | Places & cultures | Adventure | Supernatural | harry potter | j.k rowling | spanish | Spanish language materials
+year: 1997
+editions: 400
+languages: mar | afr | spa | kal | gla | hun | hin | rum | vie | cze | dan | yid | swe | heb | wel | dut | rus | ice | bul | gre | ita | por | ukr | ger | eng | tha | nor | fre | cat | lav | pol | chi | ara | per | grc | lat | urd | nep | hrv | gle | ltz | fin | ben | jpn | kor | tur | alb | lit | tib
+url: https://openlibrary.org/works/OL82563W
+Релевантность: 0.4615
+Оценка: 3
+Бонус: 1.50
+Итоговый балл: 1.9615
+--------------------------------------------------
+
+[ID: OL2172509W]
+id: OL2172509W
+title: Solar Lottery
+authors: Philip K. Dick
+subjects: Lotteries | Fiction | Science Fiction | Fiction, science fiction, general | American Science fiction
+year: 1955
+editions: 17
+languages: fre | spa | eng
+url: https://openlibrary.org/works/OL2172509W
+Релевантность: 0.6400
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.6400
+--------------------------------------------------
+
+[ID: OL17358795W]
+id: OL17358795W
+title: Dark Matter
+authors: Blake Crouch
+subjects: Kidnapping | Fiction | Reality | Science Fiction | Psychological | New York Times bestseller | Technological | Suspense | Thrillers | Mystery
+year: 2016
+editions: 23
+languages: eng | spa | pol | por
+url: https://openlibrary.org/works/OL17358795W
+Релевантность: 0.6087
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.6087
+--------------------------------------------------
+
+[ID: OL100768W]
+id: OL100768W
+title: Matter
+authors: Iain Banks
+subjects: Fiction | Government investigators | Brothers and sisters | Murder | Life on other planets | OverDrive | Science Fiction | Science Fiction & Fantasy | Space colonies
+year: 2008
+editions: 13
+languages: ger | fre | eng
+url: https://openlibrary.org/works/OL100768W
+Релевантность: 0.5556
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.5556
+--------------------------------------------------
+
+[ID: OL473471W]
+id: OL473471W
+title: Star Hunter
+authors: Andre Norton
+subjects: Fiction, science fiction, general | Science fiction
+year: 1961
+editions: 61
+languages: eng
+url: https://openlibrary.org/works/OL473471W
+Релевантность: 0.5217
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.5217
+--------------------------------------------------
+
+[ID: OL56905W]
+id: OL56905W
+title: Barrayar
+authors: Lois McMaster Bujold
+subjects: Hugo Award Winner | award:hugo_award=1992 | award:hugo_award=novel | Vorkosigan, miles (fictitious character), fiction | Fiction, science fiction, general | series:vorkosigan_saga | Fiction | Fiction, science fiction, action & adventure
+year: 1991
+editions: 18
+languages: dut | ger | fre | rum | spa | eng
+url: https://openlibrary.org/works/OL56905W
+Релевантность: 0.5000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.5000
+--------------------------------------------------
+
+[ID: OL20723256W]
+id: OL20723256W
+title: Harrow the Ninth
+authors: Tamsyn Muir
+subjects: Fiction, science fiction, action & adventure | Fiction, fantasy, epic | Fiction, fantasy, dark fantasy | paranormal | necromancy | LGBTQ science fiction & fantasy | Women authors | Witches | Fiction | Magic | Lesbians | Imaginary wars and battles | Swords | FICTION / Science Fiction / Space Opera | FICTION / Science Fiction / Action & Adventure | FICTION / Gothic | nyt:hardcover-fiction=2020-08-23 | New York Times bestseller | Serie:The_Locked_Tomb | Sneak Peek
+year: 2020
+editions: 9
+languages: spa | eng
+url: https://openlibrary.org/works/OL20723256W
+Релевантность: 0.5000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.5000
+--------------------------------------------------
+
+[ID: OL2465684W]
+id: OL2465684W
+title: Halting State
+authors: Charles Stross
+subjects: Bank robberies | Virtual reality | Fiction | Science Fiction | Computer games | Fiction, science fiction, general | Edinburgh (scotland), fiction | Crime, fiction | Internet, fiction | Fiction, thrillers, general | Fiction, mystery & detective, police procedural
+year: 2007
+editions: 7
+languages: eng
+url: https://openlibrary.org/works/OL2465684W
+Релевантность: 0.4800
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4800
+--------------------------------------------------
+
+[ID: OL17607742W]
+id: OL17607742W
+title: The Power
+authors: Naomi Alderman
+subjects: Rol sexual | Fuerza muscular | Ability | Mujeres | Muchachas adolescentes | Ficcion | Fiction | Women | Sex role | Grandes potencias | Muscle strength | Teenage girls | Fiction, dystopian | Fiction, science fiction, general | Great powers | nyt:hardcover-fiction=2018-01-21 | New York Times bestseller | New York Times reviewed | Social role | FICTION / Dystopian | FICTION / Coming of Age | FICTION / Science Fiction / Apocalyptic & Post-Apocalyptic | Bildungsromans | Dystopias | Self-actualization (Psychology) | Feminism | Future life | nyt:trade-fiction-paperback=2019-01-27 | Women -- Fiction | Self-actualization (Psychology) -- Fiction | Feminism -- Fiction | Future life -- Fiction | Teenage girls -- Fiction | Science fiction
+year: 1998
+editions: 24
+languages: ita | eng
+url: https://openlibrary.org/works/OL17607742W
+Релевантность: 0.4762
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4762
+--------------------------------------------------
+
+[ID: OL510450W]
+id: OL510450W
+title: Protector
+authors: Larry Niven
+subjects: Fiction, science fiction, general | American Science fiction
+year: 1973
+editions: 19
+languages: eng
+url: https://openlibrary.org/works/OL510450W
+Релевантность: 0.4762
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4762
+--------------------------------------------------
+
+[ID: OL16014245W]
+id: OL16014245W
+title: Shatter Me
+authors: Tahereh Mafi
+subjects: Love | Ability | Dictatorship | Fiction | Science fiction | Soldiers | Juvenile fiction | Love stories | Children's fiction | Love, fiction | Soldiers, fiction | Totalitarianism, fiction | Romance fiction | Dictators | Aptitude | Romans, nouvelles, etc. pour la jeunesse | Dictature
+year: 2011
+editions: 24
+languages: eng | dut
+url: https://openlibrary.org/works/OL16014245W
+Релевантность: 0.4545
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4545
+--------------------------------------------------
+
+[ID: OL8193387W]
+id: OL8193387W
+title: Hard Times
+authors: Charles Dickens
+subjects: Fiction | Social problems | Utilitarianism | Education | Social life and customs | Social conditions | Married people | Industrial revolution | Problèmes sociaux | Conditions sociales | Romans, nouvelles | Mœurs et coutumes | Criticism and interpretation | Hard times (Dickens, Charles) | Manners and customs | Aufsatzsammlung | Hard times (Dickens) | British and irish fiction (fictional works by one author) | Fiction, political | Fiction, family life | England, fiction | Dickens, charles, 1812-1870 | Large type books | Fiction, family life, general | Education, fiction | Social problems, fiction | Children's fiction | Fiction, general | Utilitatianism | English literature | Married people, fiction | England -- Fiction | Domestic fiction | Social problems -- Fiction | Utilitarianism -- Fiction | Education -- Fiction | Political fiction | Social sciences | Psychology | Révolution industrielle | Dickens, charles , 1812-1870 | Social problems--fiction | Pr4561.a2 f67 1990 | 823/.8 | British and irish drama (dramatic works by one author) | Adaptations | English language | English language, textbooks for foreign speakers | Long Now Manual for Civilization | Work environment | History | Poverty | Imagination | Truthfulness and falsehood | Satire
+year: 1854
+editions: 1028
+languages: spa | bul | pol | dut | und | fre | ita | por | ger | heb | chi | ara | eng
+url: https://openlibrary.org/works/OL8193387W
+Релевантность: 0.4545
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4545
+--------------------------------------------------
+
+[ID: OL3290739W]
+id: OL3290739W
+title: Star Maker
+authors: Olaf Stapledon
+subjects: Fiction, general | Fiction in English | Science fiction | Fiction | Cosmology | Long Now Manual for Civilization | Fiction, science fiction, general | English literature | English Science fiction
+year: 1937
+editions: 77
+languages: eng
+url: https://openlibrary.org/works/OL3290739W
+Релевантность: 0.4545
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4545
+--------------------------------------------------
+
+[ID: OL17062642W]
+id: OL17062642W
+title: Ancillary Sword
+authors: Ann Leckie
+subjects: Science Fiction | Fiction | Quests (Expeditions) | Revenge | Fiction, science fiction, space opera | Fiction, science fiction, action & adventure | FICTION / Science Fiction / Space Opera | FICTION / Science Fiction / Adventure | FICTION / Action & Adventure | Large type books
+year: 2014
+editions: 7
+languages: eng
+url: https://openlibrary.org/works/OL17062642W
+Релевантность: 0.4444
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4444
+--------------------------------------------------
+
+[ID: OL17358701W]
+id: OL17358701W
+title: Ancillary Mercy
+authors: Ann Leckie
+subjects: Science Fiction | Fiction | Fiction, science fiction, space opera | Life on other planets | Imaginary wars and battles | nyt:trade-fiction-paperback=2015-10-25 | New York Times bestseller
+year: 2015
+editions: 8
+languages: eng
+url: https://openlibrary.org/works/OL17358701W
+Релевантность: 0.4444
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4444
+--------------------------------------------------
+
+[ID: OL81626W]
+id: OL81626W
+title: Carrie
+authors: Stephen King
+subjects: occult & supernatural fiction | horror fiction | psychological thrillers | Fiction | Horror | American Horror tales | thriller | Epistolary novel | telekinesis | Menarche | proms | menstruation | telepathy | banned book | Estudiantes de escuelas secundarias | Psicocinética | Psychokinesis | Teenage girls | Social isolation | High school students | Madres e hijas | Mothers and daughters | Ficción | Aislamiento social | Child abuse | Bullying | Supernatural | Horror stories | Fiction, horror | Belonging | FICTION / Horror | FICTION / Occult & Supernatural | FICTION / Thrillers / Psychological | Elèves du secondaire | Romans | Horreur | Psychokinésie | Violence envers les enfants | Good and evil | Revenge | Bullies | English fiction | Translations into Spanish | Escuelas secundarias | Novela | Estudiantes | Abuso de niños | Novela inglés | Traducciones en español | Cuentos populares de terror | Spanish language materials | Estudiantes de escuela secundaria | Psicokinesis | Novela inglesa | Traducciones al español | American literature | Arabic language | White, carrie (fictitious character), fiction | Chamberlain (me. : imaginary place), fiction | Maine, fiction | Large type books | Science Fiction - General | King, Stephen - Prose & Criticism | Fiction - Horror | Classics | Horror - General | Horror & ghost stories | collection:Name
+year: 1974
+editions: 120
+languages: spa | fre | ita | por | ger | rus | chi | eng
+url: https://openlibrary.org/works/OL81626W
+Релевантность: 0.4444
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4444
+--------------------------------------------------
+
+[ID: OL35623W]
+id: OL35623W
+title: Parable of the Sower
+authors: Octavia E. Butler
+subjects: Fiction | Twenty-first century | African Americans | Science fiction | Audiobooks | General | Fiction, science fiction, general | California, fiction | African americans, fiction | American literature | nyt:trade-fiction-paperback=2020-09-13 | New York Times bestseller | Fiction, dystopian | Comics & graphic novels, science fiction | Dystopias | African American women | Psychic ability | Faith | Literary | Survival | Comic books, strips | Black Teenage girls | Environmental disasters | Graphic novels | COMICS & GRAPHIC NOVELS / Historical Fiction | COMICS & GRAPHIC NOVELS / Science Fiction | Dystopian | African American | Women | Apocalyptic & Post-Apocalyptic | African americans--fiction | Twenty-first century--fiction | Ps3552.u827 p37 2000 | 813/.54 | 21.39 graphic arts: other | Adaptations
+year: 1993
+editions: 23
+languages: ger | fre | spa | eng
+url: https://openlibrary.org/works/OL35623W
+Релевантность: 0.4375
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4375
+--------------------------------------------------
+
+[ID: OL81623W]
+id: OL81623W
+title: Firestarter
+authors: Stephen King
+subjects: Genetic Engineering | suspense | Fiction | Psychokinesis | Fire | Horror | Psychic ability | Science fiction | horror thriller | telekinesis | migraines | bleeding | pyrokinesis | hit men | Cherokees | Vietnam veterans | janitors | Rolling Stone | Fiction, horror | Horror tales | American Authors | Children | Testing laboratories | Psychokineses | Fiction, science fiction, general | Fiction, mystery & detective, general | Fiction, media tie-in
+year: 1980
+editions: 78
+languages: dut | tur | ger | fre | rus | und | pol | spa | eng
+url: https://openlibrary.org/works/OL81623W
+Релевантность: 0.4348
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4348
+--------------------------------------------------
+
+[ID: OL20907281W]
+id: OL20907281W
+title: Ready Player Two
+authors: Ernest Cline
+subjects: nyt:combined-print-and-e-book-fiction=2020-12-13 | New York Times bestseller | Fiction, science fiction, action & adventure | Technology | Fiction | Regression (Civilization) | Virtual reality | Utopias | Puzzles | Technologie | Romans, nouvelles | Décadence | Réalité virtuelle | Utopies | Jeux intellectuels | Science Fiction | Action & Adventure | Utopian fiction | Dystopias | Buried treasure | Fiction, dystopian | Fiction, thrillers, general
+year: 2019
+editions: 20
+languages: ger | spa | por | eng
+url: https://openlibrary.org/works/OL20907281W
+Релевантность: 0.4286
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4286
+--------------------------------------------------
+
+[ID: OL19730220W]
+id: OL19730220W
+title: How to stop time
+authors: Matt Haig
+subjects: Immortality | History teachers | Fiction | New York Times reviewed | Fiction, science fiction, general | Fiction, fantasy, general | Immortalism | Secret societies
+year: 2017
+editions: 13
+languages: eng
+url: https://openlibrary.org/works/OL19730220W
+Релевантность: 0.4286
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4286
+--------------------------------------------------
+
+[ID: OL15936512W]
+id: OL15936512W
+title: Ready Player One
+authors: Ernest Cline
+subjects: Regression (Civilization) | Utopias | Virtual reality | Fiction | Puzzles | Fiction, science fiction, action & adventure | Fiction, dystopian | Shared virtual environments | YOUNG ADULT FICTION / Computers & Digital Media | YOUNG ADULT FICTION / Dystopian | YOUNG ADULT FICTION / Media Tie-In | YOUNG ADULT FICTION / Mysteries & Detective Stories | YOUNG ADULT FICTION / Science Fiction / General | nyt:trade-fiction-paperback=2012-06-24 | New York Times bestseller | New York Times reviewed | Gaming | video games | cyberpunk | science fiction | action | adventure | dystopian | Future | Realidad virtual | Ficcion | Regresión (Civilización) | Rompecabezas
+year: 2008
+editions: 40
+languages: cat | srp | por | lit | ger | heb | spa | eng
+url: https://openlibrary.org/works/OL15936512W
+Релевантность: 0.4286
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4286
+--------------------------------------------------
+
+[ID: OL453660W]
+id: OL453660W
+title: Wyrd Sisters
+authors: Terry Pratchett
+subjects: Fiction, fantasy, general | Discworld (imaginary place), fiction | Granny weatherwax (fictitious character), fiction | Fiction | Discworld (Imaginary place) | Occult fiction | Witches | Fantasy | MacBeth | satire | humor | kingdom | Fantasy fiction | Fiction, humorous | Fiction, humorous, general | Literature and fiction, fantasy | Fiction, science fiction, general | English Fantasy fiction | Translations into Turkish | Turkish Fantasy fiction | Translations from English | Disque-monde (Lieu imaginaire) | Romans, nouvelles | Sorcières | English literature | Witchcraft | Drama | Wizards | Occultism
+year: 1988
+editions: 49
+languages: fin | tur | ger | fre | cze | rus | pol | spa | eng
+url: https://openlibrary.org/works/OL453660W
+Релевантность: 0.4167
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4167
+--------------------------------------------------
+
+[ID: OL15598526W]
+id: OL15598526W
+title: Halo Cryptum
+authors: Greg Bear
+subjects: Space warfare | Life on other planets | Fiction | Halo (Game) | Fiction, science fiction, action & adventure | Fiction, science fiction, military | Science fiction | Fiction, fantasy, general | Fiction, science fiction, space opera | Fiction, science fiction, general
+year: 2010
+editions: 13
+languages: eng
+url: https://openlibrary.org/works/OL15598526W
+Релевантность: 0.4167
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4167
+--------------------------------------------------
+
+[ID: OL98484W]
+id: OL98484W
+title: Player Piano
+authors: Kurt Vonnegut | Christian Rummel
+subjects: Fiction | Classic Literature | Mystery | Science Fiction & Fantasy | Utopias | Computers | Science fiction | Machinery | Engineers | Long Now Manual for Civilization | American fiction (fictional works by one author)
+year: 1952
+editions: 70
+languages: tur | ger | fre | rus | spa | eng
+url: https://openlibrary.org/works/OL98484W
+Релевантность: 0.4167
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4167
+--------------------------------------------------
+
+[ID: OL17062644W]
+id: OL17062644W
+title: Ancillary Justice
+authors: Ann Leckie
+subjects: Science Fiction | Fiction | Quests (Expeditions) | Ebook | Space Opera | Revenge | Adult | General | Adventure | Fiction, science fiction, general | award:nebula_award=novel | Artificial intelligence | Large type books | Hugo Award Winner | award:hugo_award=2014 | award:hugo_award=novel | Life on other planets | Space flight | Quête | Romans, nouvelles | Vengeance | Vie extraterrestre | Vol spatial | collection:otherwise_tiptree_award=honor
+year: 2013
+editions: 17
+languages: eng | fre
+url: https://openlibrary.org/works/OL17062644W
+Релевантность: 0.4138
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4138
+--------------------------------------------------
+
+[ID: OL59740W]
+id: OL59740W
+title: Starship Troopers
+authors: Robert A. Heinlein
+subjects: Fiction | Hugo Award Winner | Science fiction | Space warfare | award:hugo_award=1960 | award:hugo_award=novel | Long Now Manual for Civilization | Large type books | Fiction, science fiction, action & adventure | Fiction, science fiction, general | Guerre spatiale | Romans, nouvelles | American Science fiction | Extraterrestrial beings
+year: 1959
+editions: 60
+languages: ita | por | ger | fre | spa | eng
+url: https://openlibrary.org/works/OL59740W
+Релевантность: 0.4138
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4138
+--------------------------------------------------
+
+[ID: OL59729W]
+id: OL59729W
+title: The Puppet Masters
+authors: Robert A. Heinlein
+subjects: Science fiction | alien | invasion | Fiction, science fiction, general | Human-alien encounters | Fiction | American Science fiction | Extraterrestrial beings | Iowa, fiction
+year: 1951
+editions: 45
+languages: eng | spa | ger
+url: https://openlibrary.org/works/OL59729W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL547147W]
+id: OL547147W
+title: Pretties
+authors: Scott Westerfeld
+subjects: Fiction | Science fiction | Personal Beauty | Brainwashing | Large type books | Young adult fiction | Ficton | Brainwashing in fiction | Teenage girls | Juvenile fiction | Personal beauty in fiction | Friendship | Reading Level-Grade 9 | Reading Level-Grade 11 | Reading Level-Grade 10 | Reading Level-Grade 12 | Plastic Surgery | Self-perception | Personal appearance | Children's fiction | Tally (Fictitious character) | Teen fiction | Dystopia | youths | teens | Beauté corporelle | Romans, nouvelles | Adolescentes | Amitié
+year: 2005
+editions: 29
+languages: tur | fre | und | pol | spa | eng
+url: https://openlibrary.org/works/OL547147W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL81625W]
+id: OL81625W
+title: A Torre Negra
+authors: Stephen King
+subjects: thrillers | supernatural | dark fantasy | riddles | monorails | artificial intelligence | Velcro Fly | paradoxes | ka-tet | cyborgs | Fiction | Fantasy fiction | Long Now Manual for Civilization | Fantasy | Dark Tower Series | Roland (Fictitious character : King) | Fiction, fantasy, epic | Dark tower (imaginary place), fiction | Roland (fictitious character : king), fiction | American literature | Roland of Gilead (Fictitious character) | Fantastic fiction | Fiction, fantasy, general | Time travel | Magic | Voyages dans le temps | Romans, nouvelles | Chang pian xiao shuo | Science fiction, fantasy, horror | Romance | Horror fiction | Literatura norte-americana | Roland (Fictitious character)
+year: 1991
+editions: 71
+languages: spa | tur | fre | ita | por | ger | rus | chi | eng
+url: https://openlibrary.org/works/OL81625W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL17345493W]
+id: OL17345493W
+title: Uprooted
+authors: Naomi Novik
+subjects: Young women | Wizards | Friendship | Fiction | Fiction, fantasy, general | FICTION / Fantasy / Epic | FICTION / Adventure | FICTION / Romance / Fantasy | award:nebula_award=novel | Immortalism | Indentured servants | Female friendship | Good and evil | Identity (Psychology) | Magic | Adaptations | Folklore | Fate and fatalism | Fear | Courage | Survival | Choice | Immortalisme | Romans, nouvelles | Main-d'œuvre engagée à long terme | Amitié féminine | Identité (Psychologie) | Fantasy | Epic | Science Fiction | Adventure | Romance | Fiction, science fiction, action & adventure
+year: 2015
+editions: 7
+languages: eng
+url: https://openlibrary.org/works/OL17345493W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL892508W]
+id: OL892508W
+title: Hothouse
+authors: Brian W. Aldiss | Brian W. Aldiss
+subjects: evolution | Fiction in English | devolution | Fiction | Science Fiction | human evolution | Vegetation and climate | Survival | Carnivorous plants | Rotation | Fiction, science fiction, general | Fiction, general | Comics & graphic novels, fantasy, general
+year: 1962
+editions: 19
+languages: eng | pol
+url: https://openlibrary.org/works/OL892508W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL1963268W]
+id: OL1963268W
+title: Hyperion
+authors: Dan Simmons
+subjects: American Science fiction | Hugo Award Winner | award:hugo_award=1990 | award:hugo_award=novel | Ciencia-ficcio n. | Long Now Manual for Civilization | Fiction, science fiction, action & adventure | Extraterrestrial beings | Pilgrims and pilgrimages | Interplanetary voyages | Fiction | Drama | Fantasy | Future life | Life on other planets | Jesuits | Space colonies | Good and evil | Fiction, science fiction, general | Imaginary places, fiction | Science-fiction américaine | Littérature américaine
+year: 1989
+editions: 26
+languages: ita | por | fre | rus | pol | spa | eng
+url: https://openlibrary.org/works/OL1963268W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL59718W]
+id: OL59718W
+title: Starman Jones
+authors: Robert A. Heinlein
+subjects: Science fiction | Children's stories | American Science fiction | Interplanetary voyages | Time travel | Fiction | Fiction, science fiction, general | Fiction, science fiction, space opera
+year: 1953
+editions: 31
+languages: eng
+url: https://openlibrary.org/works/OL59718W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL90571W]
+id: OL90571W
+title: Tau Zero
+authors: Poul Anderson
+subjects: Fiction | Literature | Science fiction | Interstellar travel | American Science fiction | Fiction, science fiction, general
+year: 1970
+editions: 24
+languages: eng | fre
+url: https://openlibrary.org/works/OL90571W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL1911336W]
+id: OL1911336W
+title: The Day of the Triffids
+authors: John Wyndham | Marcel Battin | Cover by Andy Bridge
+subjects: Blind | English Fantasy fiction | Translations into Russian | Science Fiction & Fantasy | Horror | Fiction in English | Fiction | Meteorites | Science fiction | Fantasy fiction, English | Classic Literature | Plant mutation | Fiction, science fiction, general | Large type books | Carnivorous plants | Plants | Blindness | Extraterrestrial beings | Human-alien encounters | 18.05 English literature | Fiction, science fiction, action & adventure
+year: 1951
+editions: 63
+languages: dut | ita | rus | spa | eng
+url: https://openlibrary.org/works/OL1911336W
+Релевантность: 0.4000
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.4000
+--------------------------------------------------
+
+[ID: OL73344W]
+id: OL73344W
+title: The Dragonriders of Pern
+authors: Anne McCaffrey
+subjects: Fiction | Pern (Imaginary place) | American Science fiction | Dragons | Life on other planets | Space colonies | Science Fiction | Pern (Imaginary place) -- Fiction | nyt:e-book-fiction=2014-04-06 | New York Times bestseller | Fiction, science fiction, space opera | Pern (imaginary place), fiction | Fiction, science fiction, action & adventure
+year: 1978
+editions: 7
+languages: eng
+url: https://openlibrary.org/works/OL73344W
+Релевантность: 0.3889
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3889
+--------------------------------------------------
+
+[ID: OL5734756W]
+id: OL5734756W
+title: Gardens of the Moon
+authors: Steven Erikson
+subjects: Fantasy | Fiction | Prophets | Battles | Imaginary places | Fiction, fantasy, general | Geographical myths | Literature & Fiction | Science Fiction & Fantasy -- Authors, A-Z -- ( E ) -- Erikson, Steven | Science Fiction & Fantasy -- Fantasy -- Epic | malazan | sorcery | dragons | empire | epic | Fiction, fantasy, epic | series:Malazan Book of the Fallen
+year: 1999
+editions: 28
+languages: spa | ger | eng
+url: https://openlibrary.org/works/OL5734756W
+Релевантность: 0.3871
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3871
+--------------------------------------------------
+
+[ID: OL510443W]
+id: OL510443W
+title: A world out of time
+authors: Larry Niven
+subjects: Fiction in English | Science fiction | American Science fiction | Fiction, science fiction, general
+year: 1976
+editions: 12
+languages: eng
+url: https://openlibrary.org/works/OL510443W
+Релевантность: 0.3871
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3871
+--------------------------------------------------
+
+[ID: OL2172531W]
+id: OL2172531W
+title: Galactic pot-healer
+authors: Philip K. Dick
+subjects: Fiction | Science Fiction | Fiction, science fiction, general | Fiction, science fiction, space opera | American Science fiction | Extraterrestrial beings | Life on other planets
+year: 1969
+editions: 17
+languages: ger | fre | eng
+url: https://openlibrary.org/works/OL2172531W
+Релевантность: 0.3871
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3871
+--------------------------------------------------
+
+[ID: OL263267W]
+id: OL263267W
+title: Darkness Comes
+authors: Dean Koontz
+subjects: Fiction | Horror | Fiction, suspense | Fiction, science fiction, general | Fiction, horror
+year: 1984
+editions: 35
+languages: ger | fre | rus | und | vie | spa | eng
+url: https://openlibrary.org/works/OL263267W
+Релевантность: 0.3846
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3846
+--------------------------------------------------
+
+[ID: OL49640W]
+id: OL49640W
+title: A War of Gifts
+authors: Orson Scott Card
+subjects: Ender Wiggin (Fictitious character) | Fiction | Ender Wiggin (Fictional character) | Toleration | Science fiction | Christmas | Christmas stories | Fiction, science fiction, general | Wiggin, ender (fictitious character), fiction
+year: 2006
+editions: 11
+languages: tur | eng
+url: https://openlibrary.org/works/OL49640W
+Релевантность: 0.3846
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3846
+--------------------------------------------------
+
+[ID: OL73354W]
+id: OL73354W
+title: Crystal Singer
+authors: Anne McCaffrey
+subjects: Crystal Singer | Killashandra Ree (Fictitious character) | Fiction | Science fiction | Ree, Killashandra (Fictitious character) | Ree, killashandra (fictitious character), fiction | Fiction, science fiction, general
+year: 1854
+editions: 18
+languages: ger | fre | eng
+url: https://openlibrary.org/works/OL73354W
+Релевантность: 0.3846
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3846
+--------------------------------------------------
+
+[ID: OL59821W]
+id: OL59821W
+title: The Birthday of the World
+authors: Ursula K. Le Guin
+subjects: Fiction, general | American Science fiction | Fiction | Fiction, science fiction, general | Fiction, short stories (single author) | Science fiction, fantasy, horror | Short stories
+year: 2002
+editions: 18
+languages: tur | spa | eng
+url: https://openlibrary.org/works/OL59821W
+Релевантность: 0.3784
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3784
+--------------------------------------------------
+
+[ID: OL26796577W]
+id: OL26796577W
+title: Three-Body Problem Series
+authors: 刘慈欣 | Ken Liu | Joel Martinsen
+subjects: Fiction, science fiction, cosmology
+year: 2017
+editions: 1
+languages: eng
+url: https://openlibrary.org/works/OL26796577W
+Релевантность: 0.3784
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3784
+--------------------------------------------------
+
+[ID: OL14858392W]
+id: OL14858392W
+title: To Say Nothing of the Dog
+authors: Connie Willis
+subjects: Hugo Award Winner | award:hugo_award=1999 | award:hugo_award=novel | Time travel | Fiction | Fiction, science fiction, general | Fiction, historical, general | England, fiction | Fantasy | Science Fiction | Fiction, historical | Large type books | American Fantasy fiction | Architecture | Conservation and restoration
+year: 1997
+editions: 22
+languages: eng | kor | fre
+url: https://openlibrary.org/works/OL14858392W
+Релевантность: 0.3784
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3784
+--------------------------------------------------
+
+[ID: OL20145719W]
+id: OL20145719W
+title: Defy Me (Shatter Me)
+authors: Tahereh Mafi
+subjects: Fantasy fiction | Science fiction | Soldiers, fiction | Children's fiction
+year: 2019
+editions: 8
+languages: eng
+url: https://openlibrary.org/works/OL20145719W
+Релевантность: 0.3750
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3750
+--------------------------------------------------
+
+[ID: OL2172414W]
+id: OL2172414W
+title: Minority Report
+authors: Philip K. Dick | Hélène Collon
+subjects: American Science fiction | Fiction, science fiction, general | Crime prevention | Fiction | Science Fiction | American Short stories
+year: 1998
+editions: 14
+languages: hrv | eng
+url: https://openlibrary.org/works/OL2172414W
+Релевантность: 0.3704
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3704
+--------------------------------------------------
+
+[ID: OL579075W]
+id: OL579075W
+title: Junkyard Planet
+authors: H. Beam Piper | H. Bean Piper
+subjects: Fiction | Science Fiction | Fiction, science fiction, action & adventure | Scientists, fiction | supercomputers | Fiction, general | Fiction, science fiction, general
+year: 1631
+editions: 87
+languages: ger | eng
+url: https://openlibrary.org/works/OL579075W
+Релевантность: 0.3704
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3704
+--------------------------------------------------
+
+[ID: OL73343W]
+id: OL73343W
+title: Dinosaur Planet
+authors: Anne McCaffrey
+subjects: Dinosaurs | Fiction | Animals, fossil | Science fiction | Fiction, science fiction, general | Dinosaur planet (imaginary place), fiction | Fiction, fantasy, general | Large type books | Fossil Animals | Life on other planets | American Science fiction
+year: 1978
+editions: 16
+languages: eng
+url: https://openlibrary.org/works/OL73343W
+Релевантность: 0.3704
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3704
+--------------------------------------------------
+
+[ID: OL71124W]
+id: OL71124W
+title: The Last Battle
+authors: C. S. Lewis
+subjects: Juvenile Fiction | Science Fiction & Fantasy | Fiction | Fantasy | Children's fiction | Narnia (imaginary place), fiction | Fantasy fiction | Juvenile | Narnia (Imaginary place) | Magic | Child and youth fiction | Good and evil | English Fantasy fiction | English literature | 20th century | Adventure and adventurers, fiction | Fiction, fantasy, general | Voyages and travels | Narnia (Lugar imaginario) | Ficción juvenil | Bien y mal | Viajes | Novela fantástica | Good and evil, fiction | Lions
+year: 1956
+editions: 106
+languages: jpn | ita | chi | swe | ger | pol | vie | spa | eng
+url: https://openlibrary.org/works/OL71124W
+Релевантность: 0.3704
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3704
+--------------------------------------------------
+
+[ID: OL115337W]
+id: OL115337W
+title: Quarantine
+authors: Greg Egan
+subjects: Fiction, science fiction, general | Private investigators, fiction | Australian Science fiction
+year: 1992
+editions: 11
+languages: ger | eng
+url: https://openlibrary.org/works/OL115337W
+Релевантность: 0.3636
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3636
+--------------------------------------------------
+
+[ID: OL15450W]
+id: OL15450W
+title: Phantastes
+authors: George MacDonald
+subjects: Fairy tales | Scottish Fantasy fiction | Fiction, romance, fantasy | Fiction, science fiction, general | Fiction, fantasy, general | Classic Literature | Fantasy | Fiction | English literature | Fairies | Fairyland (Imaginary place) | English Fantasy fiction | Scottish authors | Fantasy fiction | Fiction, general | Imaginary places
+year: 1850
+editions: 472
+languages: fre | spa | por | eng
+url: https://openlibrary.org/works/OL15450W
+Релевантность: 0.3636
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3636
+--------------------------------------------------
+
+[ID: OL59730W]
+id: OL59730W
+title: Glory Road
+authors: Robert A. Heinlein
+subjects: Vietnamese Conflict, 1961-1975 | Quests (Expeditions) | Interplanetary voyages | Fiction | Veterans | American Science fiction | Vietnam War, 1961-1975 | Fiction, science fiction, general | Fiction, science fiction, space opera | Vietnam war, 1961-1975, fiction | Fiction, fantasy, general
+year: 1963
+editions: 42
+languages: heb | eng
+url: https://openlibrary.org/works/OL59730W
+Релевантность: 0.3636
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3636
+--------------------------------------------------
+
+[ID: OL21775531W]
+id: OL21775531W
+title: Destroy Me
+authors: Tahereh Mafi
+subjects: Dystopian | science fiction | young adult | romance | dystopian romance | science fiction romance | forbidden love | power dynamics | abuse | trauma | healing | redemption
+year: 2012
+editions: 4
+languages: eng | dut
+url: https://openlibrary.org/works/OL21775531W
+Релевантность: 0.3636
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3636
+--------------------------------------------------
+
+[ID: OL17401W]
+id: OL17401W
+title: Earthlight
+authors: Arthur C. Clarke
+subjects: Science fiction | Fiction, science fiction, general | English Science fiction | Fiction
+year: 1955
+editions: 15
+languages: eng
+url: https://openlibrary.org/works/OL17401W
+Релевантность: 0.3636
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3636
+--------------------------------------------------
+
+[ID: OL675774W]
+id: OL675774W
+title: The Year of the Flood
+authors: Margaret Atwood
+subjects: Fiction | Regression (Civilization) | Environmental disasters | Literature | Science Fiction & Fantasy | Dystopias | Genetic engineering | Friendship | New York Times reviewed | Fiction, science fiction, general | Canadian fiction (fictional works by one author) | Fiction, dystopian | Zukunft | Globalisierung | Science fiction | nyt:hardcover-fiction=2009-10-11 | New York Times bestseller | Environment | Disasters | 18.07 English literature outside Europe and the USA | Canadian literature | Canadian fiction | Catastrophes écologiques | Romans, nouvelles | Décadence | Large type books
+year: 2009
+editions: 30
+languages: dut | ger | fre | pol | eng
+url: https://openlibrary.org/works/OL675774W
+Релевантность: 0.3636
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3636
+--------------------------------------------------
+
+[ID: OL5714284W]
+id: OL5714284W
+title: A Dangerous Path
+authors: Erin Hunter
+subjects: Cats | Fantasy | Fantasy Fiction | Feral Cats | Fiction | Juvenile Fiction | Children's fiction | Cats, fiction | Dogs, fiction | Dogs | Science fiction | series:warriors_the_prophecies_begin | Adventure and adventurers, fiction | Fantasy fiction | Friendship, fiction | Family, fiction
+year: 2004
+editions: 29
+languages: pol | ger | spa | eng
+url: https://openlibrary.org/works/OL5714284W
+Релевантность: 0.3571
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3571
+--------------------------------------------------
+
+[ID: OL46156W]
+id: OL46156W
+title: Lucky Starr and the Pirates of the Asteroids
+authors: Isaac Asimov
+subjects: American Science Fiction | Science Fiction | Shortstories | Pirates | Fiction, general | Fiction, science fiction, general
+year: 1953
+editions: 14
+languages: ita | ger | eng
+url: https://openlibrary.org/works/OL46156W
+Релевантность: 0.3571
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3571
+--------------------------------------------------
+
+[ID: OL13990W]
+id: OL13990W
+title: The Dream Master
+authors: Roger Zelazny
+subjects: American Science Fiction | Science Fiction | Fiction, general | Dreams | Fiction | Psychoanalysis
+year: 1966
+editions: 25
+languages: rus | ger | eng | fre
+url: https://openlibrary.org/works/OL13990W
+Релевантность: 0.3571
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3571
+--------------------------------------------------
+
+[ID: OL1418137W]
+id: OL1418137W
+title: The warlord of Mars #3
+authors: Edgar Rice Burroughs
+subjects: Classic Literature | Fiction | Historical Fiction | Science Fiction | Dejah Thoris (Fictitious character) | real science fiction | John Carter | Mars | Martian series | tharks | throats | sward | ochre | Helium | airships | glass needles | air guns | swords | gravity | Apache | desert | astral travel | U.S. Calvary | Fiction, science fiction, action & adventure | Barsoom (imaginary place), fiction | Carter, john (fictitious character), fiction | Fiction, science fiction, general | Fiction, action & adventure | John Carter (Fictitious character) | Large type books | Fiction, classics | Fiction, science fiction, space opera | Science fiction | Mars (Planet) -- Fiction | Carter, John (Fictitious character) -- Fiction | Dejah Thoris (Fictitious character) -- Fiction | Fiction, general
+year: 1914
+editions: 420
+languages: eng
+url: https://openlibrary.org/works/OL1418137W
+Релевантность: 0.3529
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3529
+--------------------------------------------------
+
+[ID: OL15456729W]
+id: OL15456729W
+title: A Discovery of Witches
+authors: Deborah Harkness
+subjects: Vampires--Fiction. | Witches--Fiction. | Alchemy--Manuscripts--Fiction. | Science and magic--Fiction. | Alchemy | Vampires | Witches | Manuscripts | Science and magic | Fiction | Vampires, fiction | Fiction, romance, paranormal | Fiction, occult & supernatural | Magic | Amerikanisches Englisch | Fantasy fiction | Love stories | Large type books | Man-woman relationships, fiction | Romance fiction | nyt:hardcover-fiction=2011-02-27 | New York Times bestseller | Fiction, romance, paranormal, general | Fiction, romance, general | Fiction, thrillers, general | Women college teachers | American fiction
+year: 2011
+editions: 11
+languages: spa | eng
+url: https://openlibrary.org/works/OL15456729W
+Релевантность: 0.3529
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3529
+--------------------------------------------------
+
+[ID: OL35618W]
+id: OL35618W
+title: Parable of the Talents
+authors: Octavia E. Butler
+subjects: Fiction | Twenty-first century | Young women | Science fiction | Dystopias | Fiction, fantasy, contemporary | California, fiction | African americans, fiction | Fiction, political | Fiction, science fiction, general | Audiobooks | American literature | award:nebula_award=novel | American fiction | Dystopies | Romans, nouvelles | Jeunes femmes | Vingt et unième siècle | Roman américain | General | Literary | Young women, fiction | collection:otherwise_tiptree_award=honor
+year: 1998
+editions: 21
+languages: eng
+url: https://openlibrary.org/works/OL35618W
+Релевантность: 0.3529
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3529
+--------------------------------------------------
+
+[ID: OL8259664W]
+id: OL8259664W
+title: The Honor of the Queen
+authors: David Weber
+subjects: Fiction | Women soldiers | Space warfare | Science fiction | Life on other planets | Women diplomats | Fiction, science fiction, hard science fiction | Fiction, science fiction, action & adventure | series:Honor Harrington
+year: 1993
+editions: 10
+languages: pol | ger | eng
+url: https://openlibrary.org/works/OL8259664W
+Релевантность: 0.3529
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3529
+--------------------------------------------------
+
+[ID: OL56887W]
+id: OL56887W
+title: The Warrior Apprentice
+authors: Lois McMaster Bujold
+subjects: Fiction | Interplanetary voyages in fiction | Miles Vorkosigan (Fictitious character) | Interplanetary voyages | Fiction, science fiction, action & adventure
+year: 1986
+editions: 14
+languages: eng
+url: https://openlibrary.org/works/OL56887W
+Релевантность: 0.3529
+Оценка: нет
+Бонус: 0.00
+Итоговый балл: 0.3529
+--------------------------------------------------
+Найдено записей: 64
+Отображено записей: 64
+Время поиска: 0.046549 сек.
+Порог релевантности: 0.35
